@@ -1,0 +1,10 @@
+urls:
+  -
+    url: "http://facebook.com"
+    delay: 60
+  -
+    url: "http://twitter.com"
+    delay: 180
+  -
+    url: "http://github.com"
+    delay: 75
